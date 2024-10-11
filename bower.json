@@ -7,7 +7,12 @@
     "type": "git",
     "url": "https://github.com/purescript-contrib/purescript-aff-bus.git"
   },
-  "authors": ["Nathan Faubion <nathan@n-son.com>"],
-  "keywords": ["purescript", "aff", "bus"],
-  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"]
+  "authors": [
+    "Nathan Faubion <nathan@n-son.com>"
+  ],
+  "keywords": [
+    "purescript",
+    "aff",
+    "bus"
+  ]
 }
